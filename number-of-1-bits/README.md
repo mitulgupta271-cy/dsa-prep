@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-1-bits/submissions/2160512500/">Number of 1 Bits</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/number-of-1-bits/submissions/2160517728/">Number of 1 Bits</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Given a positive integer <code>n</code>, write a function that returns the number of <span data-keyword="set-bit" class=" cursor-pointer relative text-dark-blue-s text-sm">set bits</span> in its binary representation (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
 
@@ -56,7 +56,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Fri, 02 Oct 2026 19:28:23 GMT
+- **Submission Date:** Fri, 02 Oct 2026 19:37:12 GMT
 
 ---
 
