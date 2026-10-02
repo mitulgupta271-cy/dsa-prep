@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/power-of-two/submissions/2160521521/">Power of Two</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/power-of-two/submissions/2160523232/">Power of Two</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of two. Otherwise, return <code>false</code></em>.</p>
 
@@ -42,30 +42,30 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Fri, 02 Oct 2026 19:43:36 GMT
+- **Submission Date:** Fri, 02 Oct 2026 19:46:33 GMT
 
 ---
 
 ### 💡 Approach & Complexity Analysis
 #### 🧠 Intuition & Algorithmic Strategy
-- **Approach:** Linear scan and greedy state accumulation to resolve **Power of Two**.
+- **Approach:** Direct constant-time evaluation using bit manipulation, formulas, or branchless operations.
 - **Flow:**
   1. Initialize state variables and inspect base constraints.
   2. Iterate through input elements, maintaining current progress and boundaries.
   3. Return the calculated result satisfying problem criteria.
 
 #### ⏱️ Complexity Analysis
-- **Time Complexity:** $\mathcal{O}(N)$ — *Single linear pass over the input collection.*
+- **Time Complexity:** $\mathcal{O}(1)$ — *Constant time operations with direct arithmetic or state manipulation.*
 - **Space Complexity:** $\mathcal{O}(1)$ — *In-place execution using only a constant number of auxiliary pointer variables.*
 
 #### 📈 Time Complexity Graph (Operations vs Input Size $N$)
 ```mermaid
 xychart-beta
-    title "Time Complexity: O(N) — Linear Operations"
+    title "Time Complexity: O(1) — Constant Operations"
     x-axis "Input Size (N)" [10, 100, 300, 600, 1000]
-    y-axis "Operations (Steps)" 0 --> 1000
-    bar [10, 100, 300, 600, 1000]
-    line [10, 100, 300, 600, 1000]
+    y-axis "Operations (Steps)" 0 --> 10
+    bar [1, 1, 1, 1, 1]
+    line [1, 1, 1, 1, 1]
 ```
 
 #### 📦 Space Complexity Graph (Memory Footprint vs Input Size $N$)
