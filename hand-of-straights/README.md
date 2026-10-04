@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/hand-of-straights/submissions/2162149866/">Hand of Straights</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/hand-of-straights/submissions/2162154709/">Hand of Straights</a></h2><h3>Medium</h3><hr>
 <div>
 <p>Alice has some number of cards and she wants to rearrange the cards into groups so that each group is of size <code>groupSize</code>, and consists of <code>groupSize</code> consecutive cards.</p>
 
@@ -39,7 +39,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sun, 04 Oct 2026 13:44:21 GMT
+- **Submission Date:** Sun, 04 Oct 2026 13:49:29 GMT
 
 ---
 
