@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/rank-transform-of-an-array/submissions/2162323371/">Rank Transform of an Array</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/rank-transform-of-an-array/submissions/2162328108/">Rank Transform of an Array</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Given an array of integers&nbsp;<code>arr</code>, replace each element with its rank.</p>
 
@@ -45,7 +45,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sun, 04 Oct 2026 16:45:47 GMT
+- **Submission Date:** Sun, 04 Oct 2026 16:50:01 GMT
 
 ---
 
