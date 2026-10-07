@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-14_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-15_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
 [![Easy](https://img.shields.io/badge/Easy-5_Solved-10b981?style=for-the-badge&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
-[![Medium](https://img.shields.io/badge/Medium-9_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
+[![Medium](https://img.shields.io/badge/Medium-10_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
 [![Hard](https://img.shields.io/badge/Hard-0_Solved-ef4444?style=for-the-badge&logoColor=white)](https://github.com/mitulgupta271-cy/dsa-prep)
 [![Sync Engine](https://img.shields.io/badge/Sync_Engine-LeetGitSyncPro-6366f1?style=for-the-badge&logo=github)](https://synccode-pro.pages.dev)
 
@@ -17,15 +17,15 @@
 ## 📊 Overall Progress & Difficulty Breakdown
 
 ```text
-🟢 Easy:    [███████░░░░░░░░░░░░░]   5 Solved (36%)
-🟡 Medium:  [█████████████░░░░░░░]   9 Solved (64%)
+🟢 Easy:    [███████░░░░░░░░░░░░░]   5 Solved (33%)
+🟡 Medium:  [█████████████░░░░░░░]  10 Solved (67%)
 🔴 Hard:    [░░░░░░░░░░░░░░░░░░░░]   0 Solved (0%)
 ================================================================
-🏆 Total:   14 Unique Problems Solved & Documented
+🏆 Total:   15 Unique Problems Solved & Documented
 ```
 
 ### 🌐 Multi-Platform Solves Breakdown
-- 🟧 **LeetCode:** `14` Solved
+- 🟧 **LeetCode:** `15` Solved
 - 🟩 **HackerRank:** `0` Solved
 - 🟦 **Codeforces:** `0` Solved
 - 🟩 **GeeksforGeeks:** `0` Solved
@@ -34,7 +34,7 @@
 - 👨‍🍳 **CodeChef:** `0` Solved
 
 ### 🎯 Key Topic Tags
-`#String`
+`#Math` `#Recursion`
 
 ---
 
@@ -42,23 +42,24 @@
 
 | # | Problem Title | Platform | Difficulty | Language | Performance (Time / Mem) | Solution & Complexity | Topics |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/2164566435/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./string-to-integer-atoi/) | `String` |
-| 2 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./count-good-numbers/) | `DSA` |
-| 3 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./asteroid-collision/) | `DSA` |
-| 4 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./rank-transform-of-an-array/) | `DSA` |
-| 5 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./hand-of-straights/) | `DSA` |
-| 6 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./insert-interval/) | `DSA` |
-| 7 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./power-of-two/) | `DSA` |
-| 8 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./number-of-1-bits/) | `DSA` |
-| 9 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./jump-game-ii/) | `DSA` |
-| 10 | [Jump Game](https://leetcode.com/problems/jump-game/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./jump-game/) | `DSA` |
-| 11 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./valid-parenthesis-string/) | `DSA` |
-| 12 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./lemonade-change/) | `DSA` |
-| 13 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./assign-cookies/) | `DSA` |
-| 14 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./rotate-array/) | `DSA` |
+| 1 | [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/2165035692/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./powx-n/) | `Math` `Recursion` |
+| 2 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./string-to-integer-atoi/) | `DSA` |
+| 3 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./count-good-numbers/) | `DSA` |
+| 4 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./asteroid-collision/) | `DSA` |
+| 5 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./rank-transform-of-an-array/) | `DSA` |
+| 6 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./hand-of-straights/) | `DSA` |
+| 7 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./insert-interval/) | `DSA` |
+| 8 | [Power of Two](https://leetcode.com/problems/power-of-two/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./power-of-two/) | `DSA` |
+| 9 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./number-of-1-bits/) | `DSA` |
+| 10 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./jump-game-ii/) | `DSA` |
+| 11 | [Jump Game](https://leetcode.com/problems/jump-game/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./jump-game/) | `DSA` |
+| 12 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./valid-parenthesis-string/) | `DSA` |
+| 13 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./lemonade-change/) | `DSA` |
+| 14 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./assign-cookies/) | `DSA` |
+| 15 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./rotate-array/) | `DSA` |
 
 ---
 
 <div align="center">
-  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Tue, 06 Oct 2026 17:53:32 GMT</sub>
+  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Wed, 07 Oct 2026 07:17:38 GMT</sub>
 </div>
