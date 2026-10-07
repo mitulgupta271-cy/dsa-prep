@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/powx-n/submissions/2165035692/">Pow(x, n)</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/powx-n/submissions/2165036569/">Pow(x, n)</a></h2><h3>Medium</h3><hr>
 <div>
 <p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
 
@@ -40,7 +40,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Wed, 07 Oct 2026 07:17:37 GMT
+- **Submission Date:** Wed, 07 Oct 2026 07:18:47 GMT
 
 ---
 
