@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/next-greater-element-i/submissions/2166381873/">Next Greater Element I</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></h2><h3>Easy</h3><hr>
 <div>
 <p>The <strong>next greater element</strong> of some element <code>x</code> in an array is the <strong>first greater</strong> element that is <strong>to the right</strong> of <code>x</code> in the same array.</p>
 
@@ -46,9 +46,9 @@
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `0 ms`
-- **Memory:** `N/A`
-- **Submission Date:** Thu, 08 Oct 2026 14:00:35 GMT
+- **Runtime:** `19 ms` (Beats **5.96%**)
+- **Memory:** `12.24 MB` (Beats **5.96%**)
+- **Submission Date:** Thu, 08 Oct 2026 16:27:53 GMT
 
 ---
 
