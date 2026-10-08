@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/next-greater-element-i/submissions/2166606694/">Next Greater Element I</a></h2><h3>Easy</h3><hr>
 <div>
 <p>The <strong>next greater element</strong> of some element <code>x</code> in an array is the <strong>first greater</strong> element that is <strong>to the right</strong> of <code>x</code> in the same array.</p>
 
@@ -46,22 +46,22 @@
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `19 ms` (Beats **5.96%**)
-- **Memory:** `12.24 MB` (Beats **5.96%**)
-- **Submission Date:** Thu, 08 Oct 2026 16:27:53 GMT
+- **Runtime:** `0 ms`
+- **Memory:** `N/A`
+- **Submission Date:** Thu, 08 Oct 2026 17:42:19 GMT
 
 ---
 
 ### 💡 Approach & Complexity Analysis
 #### 🧠 Intuition & Algorithmic Strategy
-- **Approach:** Linear scan and greedy state accumulation to resolve **Next Greater Element I**.
+- **Approach:** Utilizes frequency counting or presence tracking via hash mapping for O(1) membership queries.
 - **Flow:**
   1. Initialize state variables and inspect base constraints.
   2. Iterate through input elements, maintaining current progress and boundaries.
   3. Return the calculated result satisfying problem criteria.
 
 #### ⏱️ Complexity Analysis
-- **Time Complexity:** $\mathcal{O}(N^3)$ — *Three levels of nested iteration across elements.*
+- **Time Complexity:** $\mathcal{O}(N^2) \text{ or } \mathcal{O}(N \times M)$ — *Nested iteration processing coordinate pairs, combinations, or 2D matrix grids.*
 - **Space Complexity:** $\mathcal{O}(N)$ — *Auxiliary lookup table or dynamically allocated buffer storing input elements.*
 
 #### 📈 Time Complexity Graph (Operations vs Input Size $N$)
